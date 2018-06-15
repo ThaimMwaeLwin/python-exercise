@@ -1,0 +1,1 @@
+I'm going to teach you how to research a piece of code to expose its secrets
