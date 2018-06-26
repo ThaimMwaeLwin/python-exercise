@@ -9,5 +9,5 @@ I'll do a list:
 """
 print(tabby_dog)
 print(persian_dog)
-print(backslash_cat)
-print(fat_cat)
+print(backslash_dog)
+print(fat_dog)
